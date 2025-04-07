@@ -1,5 +1,9 @@
-# DCC025-TrabalhoFinal
-repositório do trabalho final da disciplina de orientação a objetos 
+# 📚 DCC025-TrabalhoFinal
+repositório do trabalho final da disciplina de orientação a objetos.
+
+<h2>Sobre o projeto:</h2>
+Nesse projeto, foi desenvolvido um aplicativo chamado ”BookSelf”, uma ferramenta que possibilita a criação de uma biblioteca virtual personalizada. Através dele, os usuários podem adicionar registros detalhados das suas últimas leituras, bem como acrescentar suas resenhas e notas a fim de registrar sua experiência e conclusões sobre cada obra. Com essa funcionalidade, é possível organizar suas leituras e gerenciar projetos literários de forma prática e eficiente, garantindo que você tenha uma visão clara das obras já lidas, das que estão em andamento e das que pretende explorar. 
+Seu principal objetivo é oferecer uma maneira fácil, intuitiva e personalizável de acompanhar sua jornada literária e, acima de tudo, possibilitar que o sentimento despertado em você durante cada leitura nunca seja esquecido.
 
 ``` mermaid
 classDiagram 
